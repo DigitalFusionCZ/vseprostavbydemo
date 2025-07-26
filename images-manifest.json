@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-26T18:54:38.330Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-1.jpg",
+      "file_name": "logo-1.jpg",
+      "description": "Image from logo section",
+      "suggested_usage": "Use in logo section",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/content-2.jpg",
+      "file_name": "content-2.jpg",
+      "description": "Image from content section",
+      "suggested_usage": "Use in content section",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/content-3.jpg",
+      "file_name": "content-3.jpg",
+      "description": "Image from content section",
+      "suggested_usage": "Use in content section",
+      "size_bytes": 558411
+    }
+  ]
+}
